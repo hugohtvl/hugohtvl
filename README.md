@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Développeur full stack en croissance depuis mai 2023<br>📚 Je suis actuellement en train d'apprendre Python et Java<br>🎯 Je me suis déjà formé sur React.js avec Node.js<br>🎲 Adepte de Git & GitHub</p>
+<p align="left">✨ Développeur full stack en croissance depuis mai 2023<br>📚 Je suis actuellement en train d'apprendre Python et Java<br>🎯 J'ai pour ambition de devenir un véritable couteau suisse du code !<br>🎲 Adepte de la Switch et gros fan de Pokémon</p>
 
 ###
 
